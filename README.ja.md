@@ -30,7 +30,11 @@ AI って大量のテキストを処理するとき、**本当に手を抜きが
 ### 1. インストール
 
 ```bash
+# ClawHub 経由
 npx clawhub install chatgpt-memory-extraction
+
+# または GitHub から手動インストール
+git clone https://github.com/cyresearch/chatgpt-memory-extraction.git ~/.openclaw/workspace/skills/chatgpt-memory-extraction
 ```
 
 ### 2. ChatGPT のデータをエクスポート

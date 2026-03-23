@@ -30,7 +30,11 @@
 ### 1. 安装
 
 ```bash
+# 通过 ClawHub
 npx clawhub install chatgpt-memory-extraction
+
+# 或从 GitHub 手动安装
+git clone https://github.com/cyresearch/chatgpt-memory-extraction.git ~/.openclaw/workspace/skills/chatgpt-memory-extraction
 ```
 
 ### 2. 导出你的 ChatGPT 数据

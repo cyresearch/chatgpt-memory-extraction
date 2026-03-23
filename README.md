@@ -30,7 +30,11 @@ Even with these rules, **I'd still recommend checking the AI's output yourself**
 ### 1. Install
 
 ```bash
+# Via ClawHub
 npx clawhub install chatgpt-memory-extraction
+
+# Or manually from GitHub
+git clone https://github.com/cyresearch/chatgpt-memory-extraction.git ~/.openclaw/workspace/skills/chatgpt-memory-extraction
 ```
 
 ### 2. Export your ChatGPT data
