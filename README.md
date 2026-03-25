@@ -10,7 +10,7 @@ I chatted with ChatGPT for over three years — 500+ conversations, 60,000+ mess
 
 So I built this little tool. It takes your ChatGPT export data and walks you through organizing it into a timeline-based memory archive, pulling out people, learning journeys, and key life events along the way.
 
-And the archive isn't just for looking back — you can feed it to your OpenClaw agent or any other AI assistant so that **it truly knows you from day one**. No more spending ages re-introducing yourself every time you start with a new AI 😮‍💨
+And the archive isn't just for looking back — you can feed it to your OpenClaw agent or any other AI assistant so that **it truly knows you from day one**. No more spending ages re-introducing yourself every time you start with a new AI 😅
 
 ## What it does
 
